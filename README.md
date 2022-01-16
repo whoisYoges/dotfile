@@ -2,7 +2,9 @@
 Dot file for my arch dwm config.
 
 ### Preview 
-[!Arch Dwm Setup Preview](preview.png)
+![Arch Dwm Setup Preview](preview.png)
+
+### *config file inside [root](root/) directory is for root user and [home](home/) is for regular user.*
 
 ### Config files included of:
 - [alacritty](https://archlinux.org/packages/community/x86_64/alacritty/)
@@ -16,5 +18,11 @@ Dot file for my arch dwm config.
 - [vim](https://archlinux.org/packages/extra/x86_64/vim/)
 - bashrc and more
 
-### config file inside [root](root/) directory if for root use and [home](home/) is for regular user.
 
+Checkout My wallpapers [here 👈](https://github.com/whoisYoges/lwalpapers)
+
+Checkout My dwm bar script [here 👈](https://github.com/whoisYoges/dwm-bar)
+
+Checkout My minimialistic system information viewer script [here 👈](https://github.com/whoisYoges/xyzfetch)(Replacement for neofetch or rxfetch)
+
+Checkout My wallpaper downloading Script [here 👈](https://github.com/whoisYoges/dwd)
