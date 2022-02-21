@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/invalid/Git/Others/connman/maximbaz/connman_dmenu'
+let g:netrw_dirhist_2='/home/invalid/Git/Others/connman/voit/connman_dmenu'
+let g:netrw_dirhist_1='/home/invalid/Git/Others/connman/maximbaz/connman_dmenu'

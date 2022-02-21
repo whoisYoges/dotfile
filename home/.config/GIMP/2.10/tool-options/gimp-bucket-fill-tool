@@ -1,0 +1,9 @@
+# GIMP gimp-bucket-fill-tool options
+
+(opacity 0.022000000000000002)
+(pattern "Pine")
+(brush-size 51)
+(brush-hardness 0.5)
+(fill-area selection)
+
+# end of gimp-bucket-fill-tool options

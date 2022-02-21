@@ -8,7 +8,6 @@ XF86AudioMute
 {XF86AudioLowerVolume,XF86AudioRaiseVolume}
 	pactl set-sink-volume 0 {-5%,+5%}
 
-
 ### Volume Control Microphone ###
 ctrl + XF86AudioMute
 	pactl set-source-mute 1 toggle
@@ -18,14 +17,16 @@ ctrl + {XF86AudioLowerVolume,XF86AudioRaiseVolume}
 ### Applications ###
 shift + alt + Return
 	alacritty
-super + {b,c,m,n,p,t,v}
-	{brave,clipmenu,thunderbird,networkmanager_dmenu,keepassxc,mousepad,pavucontrol}
+super + {b,c,m,p,t,v}
+	{brave,clipmenu,thunderbird,keepassxc,mousepad,pavucontrol}
+
 ### clear clipboard
 ctrl + super + c
   clipdel -d ".*"
+
 ### Screenshot ###
 @Print
-	import -window root /home/invalid/Pictures/Screenshots/Screenshot-(date +'%Y-%d-%m-%I-%M-%S').png | notify-send 'Screenshot Taken'
+	import -window root /home/invalid/Pictures/Screenshots/Screenshot-(date +'%Y-%d-%m-%I-%M-%S').png && notify-send 'Screenshot Taken'
 super + @Print
 	import /home/invalid/Pictures/Screenshots/Screenshot-(date +'%Y-%d-%m-%I-%M-%S').png && notify-send 'Screenshot Taken'
 

@@ -1,0 +1,136 @@
+[General]
+CommandBarLastUsedActions=
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/backgrounds/custom/b-046.png,file:$HOME/Pictures/Screenshots/Screenshot-2022-21-02-11-05-58.png,file:$HOME/Videos/Kdenlive/Projects/computer-keyboard-type-keys-typing.mp3,file:$HOME/Audio/ffmpeg/ffmpeg-2022-02-21-11-51-54-AM.wav,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-21-11-17-38-AM.mkv,file:$HOME/Pictures/Screenshots/Screenshot-2022-21-02-11-10-06.png,file:$HOME/Pictures/Screenshots/Screenshot-2022-21-02-11-07-17.png,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-21-10-03-17-AM.mkv,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-21-09-46-43-AM.mkv,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-21-08-43-31-AM.mkv,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-21-08-57-30-AM.mkv,file:$HOME/Videos/Kdenlive/Projects/redditsave.com_guide_on_how_to_flex_using_your_computer_skills-5eodgmrk0tg81.MP4,file:$HOME/Audio/ffmpeg/ffmpeg-2022-02-20-09-43-01-PM.wav,file:$HOME/Videos/ffmpeg/ffmpeg-2022-02-20-08-36-42-PM.mkv,file:$HOME/Videos/Youtube/It's 2am and I still miss you _ Nepali Pan 3.0 Extended Version _ Sleep Music _ Anxmus [owa94zjuHuk].webm
+Recent URLs[$e]=file:$HOME/,file:$HOME/Pictures/Screenshots/,file:$HOME/Videos/ffmpeg/,file:$HOME/Videos/,file:///usr/share/backgrounds/custom/,file:$HOME/Videos/Youtube/,file:$HOME/Audio/ffmpeg/,file:$HOME/Videos/Kdenlive/Projects/,file:$HOME/Audio/,file:$HOME/Videos/Kdenlive/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAGFAAAA/fwCAAAAAfsAAAASAFMAdQBiAHQAaQB0AGwAZQBzAAAAAaMAAAD9AAABGQEAAAMAAAACAAAFNAAAAV38AQAAABL7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAAYAEAAAP7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAZQEAAAP7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAAAAAAkwAAAGABAAAD+wAAAA4AbABpAGIAcgBhAHIAeQAAAAAAAAAArQAAAGcBAAAD+wAAABYAcAByAG8AagBlAGMAdABfAGIAaQBuAQAAAAAAAADMAAAAYAEAAAP8AAAAzQAAAWwAAACLAP////oAAAACAgAAAAP7AAAAFgBlAGYAZgBlAGMAdABfAGwAaQBzAHQBAAAAAP////8AAAADAQAAAvsAAAAeAHQAcgBhAG4AcwBpAHQAaQBvAG4AXwBsAGkAcwB0AQAAACMAAAC1AAAAAwEAAAL7AAAAGABlAGYAZgBlAGMAdABfAHMAdABhAGMAawEAAAAA/////wAAAH4BAAAC+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMAAAABiQAAANYAAABgAQAAA/sAAAASAHQAaQBtAGUAcgBlAG0AYQBwAAAAAUsAAAGRAAABQwEAAAP8AAACOgAAAdEAAAFEAP////oAAAAAAgAAAAL7AAAAHgBwAHIAbwBqAGUAYwB0AF8AbQBvAG4AaQB0AG8AcgEAAAAjAAABbQAAAMsBAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAADLAQAAAvsAAAAKAG0AaQB4AGUAcgEAAAQMAAABKAAAASQBAAAD+wAAABgAbgBvAHQAZQBzAF8AdwBpAGQAZwBlAHQAAAACcQAAAGQAAABnAQAAA/sAAAAQAHQAZQB4AHQAZQBkAGkAdAAAAAKnAAACgwAAAYQBAAAD+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABIwEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAAChAQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACcAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABQQEAAAP7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAE/wAAAoEAAAI2AQAAA/sAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABPAEAAAMAAAU0AAABJwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 Height 1366x768=703
+eDP-1 Width 1366x768=1322
+eDP-1 XPosition 1366x768=22
+eDP-1 YPosition 1366x768=43
+eDP1 Height 1366x768=710
+eDP1 Width 1366x768=1332
+eDP1 XPosition 1366x768=12
+eDP1 YPosition 1366x768=36
+
+[MainWindow][Toolbar timelineToolBar]
+ToolButtonStyle=IconOnly
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Pictures/Screenshots/,$HOME/Videos/Kdenlive/Projects/,$HOME/Audio/ffmpeg/
+KdenliveProjectsFolder[$e]=$HOME/Videos/Kdenlive/Projects,$HOME/Projects/Kdenlive,$HOME/Projects/Kdenlive/
+
+[Recent Files]
+File1[$e]=$HOME/Videos/Kdenlive/Projects/#4BugsWriter.kdenlive
+Name1[$e]=#4BugsWriter.kdenlive
+
+[RenderWidget]
+showoptions=false
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorScheme=Breeze Dark
+ColorSchemePath=BreezeDark.colors
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAAMAAAAAYAAAAnAAAABQAAAFUAAAAEAAAAMQAAAAMAAAA5AAAAAgAAAGcAAAABAAAAOQAAAK8AAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAAArwAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABA
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+defaultaudiocapture=0
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[misc]
+checkfirstprojectclip=false
+
+[project]
+externalProxyProfile=./;GL;.LRV;./;GX;.MP4
+transcodeFriendly=Lossless (Huge files)
+
+[sdl]
+blackmagic_output_device=-1
+
+[settings]
+dialogSize=1024,691
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[timeline]
+trackheight=30
+
+[unmanaged]
+default_profile=atsc_1080p_30
+defaultrescaleheight=540
+defaultrescalewidth=960
+favorite_effects=volume,lift_gamma_gain,qtblend,crop
+favorite_transitions=wipe,qtblend,dissolve
+force_breeze=true
+monitor_audio=false
+previewScaling=0
+producerslist=avformat,avformat-novalidate,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf,framebuffer,blipflash,count,pgm,qimage,qtext,kdenlivetitle,vorbis,xml,xml-string,xml-nogl
+projectMonitorOverlayGuides=2
+project_fps=30
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=21.12.2
