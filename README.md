@@ -2,7 +2,7 @@
 Dot file for my arch dwm config.
 
 ### Preview 
-![Arch Dwm Setup Preview](preview.png)
+![Artix Dwm Setup Preview](preview.png)
 
 ### *config file inside [root](root/) directory is for root user and [home](home/) is for regular user.*
 
